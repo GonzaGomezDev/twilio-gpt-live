@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Datos de llamadas (transcripts y pedidos de handoff)
+logs/
+data/
